@@ -1,4 +1,0 @@
-apikey string yes 
-merchant_id integer 
-merchant_group_id integer 
-site_id string
